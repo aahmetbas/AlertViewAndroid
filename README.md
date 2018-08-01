@@ -6,11 +6,13 @@ Add alertview folder to your project directory
 ```java
 include ':app', ':alertview'
 ```
-
+s
 ### build.gradle in dependecies add
 ```java
 implementation project(path: ':alertview')
 ```
+
+![Alt Text](https://github.com/aahmetbas/AlertViewAndroid/blob/master/video.gif)
 
 ```java
 public class MainActivity extends AppCompatActivity {
