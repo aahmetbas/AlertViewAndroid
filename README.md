@@ -1,4 +1,4 @@
-# KÜTÜPHANEYİ PROJEYE EKLEME
+# ADD MODULE TO PROJECT
 
 Add alertview folder to your project directory
 
