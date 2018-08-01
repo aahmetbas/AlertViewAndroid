@@ -6,7 +6,7 @@ Add alertview folder to your project directory
 ```java
 include ':app', ':alertview'
 ```
-s
+
 ### build.gradle in dependecies add
 ```java
 implementation project(path: ':alertview')
