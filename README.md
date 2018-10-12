@@ -1,4 +1,6 @@
-# ADD MODULE TO PROJECT
+#Alert View
+
+### ADD MODULE TO PROJECT
 
 Add alertview folder to your project directory
 
